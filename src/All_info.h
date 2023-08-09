@@ -15,11 +15,10 @@
 #define CONTENT_TYPE "application/json"
 #define Platform "Rev4"
 
-#define URL_ID "http://siot.soict.ai/api/devices/reader_rs232_to_rs485-2wunb/attributes/id-emlt5"
-#define URL_STATE "http://siot.soict.ai/api/devices/reader_rs232_to_rs485-2wunb/attributes/state-g9og1"
 #define URL_TEMP "http://siot.soict.ai/api/devices/reader_rs232_to_rs485-2wunb/attributes/nhietdo-vdfao"
 #define URL_LIGHT "http://siot.soict.ai/api/devices/reader_rs232_to_rs485-2wunb/attributes/anhsang-m2kh5"
 
 #define MAX_WIDTH 128
 #define MAX_HIGHT 64
 #endif
+    
