@@ -15,6 +15,8 @@ void Sensor::init()
 {
 	pinMode(DLS_PIN, INPUT);
 	pinMode(BULB_PIN, OUTPUT);
+	pinMode(SW_FAN, INPUT);
+	pinMode(SW_BULB, INPUT);
 	digitalWrite(BULB_PIN, HIGH);
 	pinMode(FAN_PIN, OUTPUT);
 	digitalWrite(FAN_PIN, HIGH);

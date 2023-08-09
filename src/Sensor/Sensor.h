@@ -9,7 +9,10 @@
 #define DLS_PIN A0
 #define BULB_PIN D5
 #define FAN_PIN D6
-#define CHANGE_MODE D7
+#define CHANGE_MODE D3
+
+#define SW_FAN D7
+#define SW_BULB D8
 
 #define MIN_ADDR_DATA 12
 #define MAX_ADDR_DATA 172
